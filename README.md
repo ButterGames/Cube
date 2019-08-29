@@ -1,2 +1,1 @@
-# Cube
-este es un juego
+# Miniv10
